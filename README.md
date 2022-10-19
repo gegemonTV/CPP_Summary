@@ -20,6 +20,6 @@
 
 **Мехтиев Владимир** – студент-первокурсник МГТУ "СТАНКИН". По всем вопросам обращаться к нему, поможет разобраться с трудностями, сложившимися при изучении языка.<br>
 _Контакты:_<br>
-VK: <u>[тык](https://vk.com/punk_not_dead_telepusik_must_die)</u><br>
+VK (на связи 25/8): <u>[тык](https://vk.com/punk_not_dead_telepusik_must_die)</u><br>
 Telegram (отвечает редко): <u>[тык](https://t.me/linuxxx0id)</u><br>
 Email: vladimir@linuxxx0id.ru
