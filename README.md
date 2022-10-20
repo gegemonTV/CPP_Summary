@@ -23,3 +23,5 @@ _Контакты:_<br>
 VK (на связи 25/8): <u>[тык](https://vk.com/punk_not_dead_telepusik_must_die)</u><br>
 Telegram (отвечает редко): <u>[тык](https://t.me/linuxxx0id)</u><br>
 Email: vladimir@linuxxx0id.ru
+
+**Спивак Татьяна** – студент-первокурсник МГТУ "СТАНКИН". Помогала в сборе информации от нашего :sparkles: **_шикарного_** :sparkles: лектора.

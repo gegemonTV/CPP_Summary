@@ -28,7 +28,7 @@ Visual Studio Community - это IDE<sup>1</sup>, от Microsoft, которая
 Откройте скачанный файл и нажмите <span style="color:green">продолжить</span>.<br><br>
 ![Image of VSIWelcome](../assets/VSIWelcome.png)<br>
 Дождитесь завершения загрузки необходимых компонентов.<br>
-Выберите опцию <span style="color: green">Разработка классических приложений на C++</span>.
+Выберите опцию <span style="color: green">Разработка классических приложений на C++</span><br><br>.
 ![Image VSIMain](../assets/VSIMain.png)
 <br>
 Нажмите кнопку <span style="color: green">ОК</span> и дождитесь установки необходимых пакетов, после чего можете закрыть установщик и радоваться жизни `:)`.<br>
